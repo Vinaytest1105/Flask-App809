@@ -1,4 +1,4 @@
-apiVersion: v1-testsync-{{ env }}
+apiVersion: v1-testsync-envprod
 kind: GitRepository
 metadata:
    namespace: flux-test

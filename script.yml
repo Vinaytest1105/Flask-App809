@@ -8,7 +8,7 @@ on:
         required: true
         type: string
       NAMESPACE:
-        description: {{ namespace }}
+        description: testnamespace
         required: true
         type: string
 
